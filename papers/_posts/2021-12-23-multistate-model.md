@@ -22,7 +22,7 @@ doi: 10.1101/2021.12.22.473861
 category: paper
 published: true
 peerreview: false
-preprint: true
+preprint: false
 review: false
 tags: [bacterial flagellar motor, stator unit, bacterial motility, mechano-adaptation, remodeling]
 ---

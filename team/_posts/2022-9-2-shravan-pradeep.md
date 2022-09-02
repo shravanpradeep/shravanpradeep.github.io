@@ -1,16 +1,16 @@
 ---
 layout: member
-title: "Navish Wadhwa"
-category: Principal Investigator
-position: Principal Investigator
-nickname: Navish
-handle: navish
-email: Navish.Wadhwa@asu.edu
-twitter: NavishWadhwa
-github: navishwadhwa
-scholar: ad98pWwAAAAJ&view_op=list_works&sortby=pubdate
-image: /assets/images/team/navish.jpg
-cv: /assets/pdfs/wadhwa-cv.pdf
+title: "Shravan Pradeep"
+category: Me
+position: Postdoctoral Research Associate
+nickname: Shravan
+handle: shravan
+email: spradeep@upenn.edu
+twitter: pradeep_shravan
+github: shravanpradeep
+scholar: l-ahtSIAAAAJ&view_op=list_works&sortby=pubdate
+image: /assets/images/team/shravan.jpg
+cv: /assets/pdfs/pradeep-cv.pdf
 alum: false
 ---
 <!-- Ever since I learnt classical mechanics in high school, I have been amazed by the awesome power of Newton's laws and how much of the world can be understood by using different versions of these physical laws.  -->

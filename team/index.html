@@ -1,12 +1,12 @@
 ---
-title: "Team"
+title: "About"
 description: "Group members"
 group: navigation
-navorder: 3
-layout: default
+navorder: 2
+layout: redirected
 sitemap: false
 permalink: /team/
-<!-- redirect_to:  /team/navish-wadhwa -->
+redirect_to:  /team/me/shravan-pradeep.html
 ---
 
 
@@ -14,10 +14,10 @@ permalink: /team/
 
 {% include JB/setup %}
 
+<!-- <div class="bigspacer"></div> -->
+<!-- <div class="title subtle">Principal Investigator</div> -->
 <div class="bigspacer"></div>
-<div class="title subtle">Principal Investigator</div>
-<div class="bigspacer"></div>
-{% assign pi = site.categories.team | where: "category","Principal Investigator"%}
+{% assign pi = site.categories.team | where: "category","Me"%}
 {% for member in pi %}
     <div class="row">
     <div class="col-md-4 memberbox">
@@ -35,7 +35,7 @@ permalink: /team/
 {% endfor %}
 
 <div class="bigspacer"></div>
-<div class="title subtle">Join us</div>
+<!-- <div class="title subtle">Join us</div> -->
 <div class="bigspacer"></div>
 {% assign current_team = site.categories.team | where: "category","member"%}
 {% assign memberindex = 0 %}
