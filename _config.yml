@@ -8,27 +8,27 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: navishwadhwa/navishwadhwa.github.io
+repository: shravanpradeep/shravanpradeep.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : WADHWA LAB
-tagline: Mechanobiology of bacteria
+title : SHRAVAN PRADEEP
+tagline: Earthy materials rheology
 institution:
-  url: https://www.asu.edu/
-  name: Arizona State University
+  url: https://www.upenn.edu/
+  name: University of Pennsylvania
 department:
-  url: https://physics.asu.edu/
-  name: Department of Physics
-center:
-  url: https://biodesign.asu.edu/research/centers/mechanisms-evolution
-  name: Biodesign Center for Mechanisms of Evolution
+  url: https://www.me.upenn.edu/
+  name: Mechanical Engineering and Appiled Mechanics
+# center:
+#   url: https://biodesign.asu.edu/research/centers/mechanisms-evolution
+#   name: Biodesign Center for Mechanisms of Evolution
 author :
-  name : Navish Wadhwa
-  email : Navish.Wadhwa@asu.edu
-  github : navishwadhwa
-  twitter : NavishWadhwa
+  name : Shravan Pradeep
+  email : spradeep@upenn.edu
+  github : shravanpradeep
+  twitter : pradeep_shravan
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -39,7 +39,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : navishwadhwa.github.io
+production_url : shravanpradeep.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
