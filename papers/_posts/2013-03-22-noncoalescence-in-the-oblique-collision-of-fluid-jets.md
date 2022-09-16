@@ -1,32 +1,32 @@
 ---
 layout: paper
-title: "Noncoalescence in the oblique collision of fluid jets"
-year: "2013"
-shortref: "Wadhwa, Vlachos, and Jung, <i>Phys Rev Lett</i> 2013"
+title: "Synthesis and characterization of Fe<sup>3+</sup> and Mn<sup>2+</sup> doped ZnS quantum dots for photocatalytic applications: effect of 2-mercaptoethanol and chitosan as capping agents"
+year: "2017"
+shortref: "Pradeep et al. <i>J. Nanosci. Nanotechnol.</i> 2017"
 nickname: non-coelescence-oblique-jets
-journal: "Phys Rev Lett"
-volume: 110
-issue: 12
-pages: 124502
-authors: "Wadhwa N, Vlachos P, Jung S"
-image: /assets/images/papers/non-coalescence.png
-fulltext: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.124502
+journal: "Journal of Nanoscience and Nanotechnology"
+volume: 17
+issue: 2
+pages: 1125-1132
+authors: "Shravan Pradeep, Sai Raghuram, Mahua Ghosh Chaudhury, Sonal Mazumder"
+image: 
+fulltext: https://www.ingentaconnect.com/contentone/asp/jnn/2017/00000017/00000002/art00035
 pdf: 
-pdflink: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.110.124502
+pdflink: 
 github: 
-pmid: 25166810
+pmid: 
 pmcid: 
 f1000: 
 figshare: 
-doi: 10.1103/PhysRevLett.110.124502
+doi: https://doi.org/10.1166/jnn.2017.12599
 category: paper
 published: true
 peerreview: false
 review: false
-tags: [non-coalescence, surface tension, fluid jets]
+tags: [2-mercapoethanol, capping agent, chitosan, photocatalysis, quantum confinement, ZnS nanocrystals]
 ---
 {% include JB/setup %}
 
 # Abstract 
 
-When two jets of fluid collide, they can "bounce" off each other, due to a thin film of air which keeps them separated. We describe the phenomenon of stable noncoalescence between two jets of the same fluid, colliding obliquely with each other. Using a simple experimental setup, we carry out a parametric study of the bouncing jets by varying the jet diameter, velocity, angle of inclination, and fluid viscosity, which suggests that the contact time of bouncing jets scales as the square root of the normal Weber number We. A dimensionless parameter \\(K = (We \sqrt{Re}/sin \alpha)^{1/2}\\), where Re is the normal Reynolds number and \\(\alpha\\) the angle of inclination of the jets, quantitatively captures the transition of colliding jets from bouncing to coalescence. This parameter draws parallels between jet coalescence and droplet splashing and indicates that the transition is governed by a surface instability. Stable and continuous noncoalescence between fluid jets makes it a good platform for experimental studies of the interaction between fluid interfaces and the properties of the interfacial air films.
+Fe<sup>3+</sup> and Mn<sup>2+</sup> capped ZnS quantum dots were synthesized using the chemical precipitation method at room temperature in aqueous media. The effect of 2-Mercaptoethanol and Chitosan as capping agents and dopants were investigated using Fourier Transform Infra-Red (FTIR), X-ray Diffraction (XRD), UV-Visible and Field Emission Scanning Electron Microscopy (FESEM) analysis of the nanocrystals. FTIR revealed the presence of respective capping agents and FESEM micrograph identifies the particles as poly-dispersed. TEM images showed agglomerated particles with crystal sized ˜3 nm. Particles were analyzed as cubic structured with peaks indexed at (1 1 1), (2 2 1) and (3 1 1) and an average crystalline size of 2.49±0.06 nm. Blue shift is obtained by both doping agents, and band gap values of ranging from 3.75–4.95 eV were reported. Characterizations suggests 2-mercaptoethanol as better capping agent compared to chitosan and has a greater potential for photocatalytic applications

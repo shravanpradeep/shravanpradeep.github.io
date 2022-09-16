@@ -1,32 +1,32 @@
 ---
 layout: paper
-title: " Characteristic sizes of life in the oceans, from bacteria to whales"
+title: "Freestanding metal organic framework‐based multifunctional membranes fabricated <i>via</i> pseudomorphic replication toward liquid‐and gas‐hazards abatement"
 year: "2016"
-shortref: "Andersen et al., <i>Ann Rev Mar Sci</i> 2016"
+shortref: "Dai, Pradeep et al., <i>Adv. Mater. Interfaces</i> 2021"
 nickname: size-in-the-ocean
-journal: "Ann Rev Mar Sci"
+journal: "Advanced Materials Interfaces"
 volume: 8
 issue: 
-pages: 217-41
-authors: "Andersen KH, Berge T, Gonçalves RJ, Hartvig M, Heuschele J, Hylander S, Jacobsen NS, Lindemann C, Martens EA, Neuheimer AB, Olsson K, Palacz A, Prowe AE, Sainmont J, Traving SJ, Visser AW, Wadhwa N, Kiørboe T"
-image: /assets/images/papers/size-ocean.png
-fulltext: https://www.annualreviews.org/doi/10.1146/annurev-marine-122414-034144
+pages: 2101178
+authors: "Zijian Dai, Shravan Pradeep, Jie Zhu, Wenyi Xie, Heather F Barton, Yang Si, Bin Ding, Jianyong Yu, Gregory N Parsons"
+image: 
+fulltext: https://onlinelibrary.wiley.com/doi/10.1002/admi.202101178
 pdf: 
-pdflink: https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-122414-034144
+pdflink: 
 github: 
-pmid: 26163011
+pmid: 
 pmcid: 
 f1000: 
 figshare: 
-doi: 10.1146/annurev-marine-122414-034144
+doi: 
 category: paper
 published: true
 peerreview: true
-review: true
+review: false
 tags: [allometric scaling, body size, fish, metabolism, mixotrophy, plankton, whales]
 ---
 {% include JB/setup %}
 
 # Abstract 
 
-The size of an individual organism is a key trait to characterize its physiology and feeding ecology. Size-based scaling laws may have a limited size range of validity or undergo a transition from one scaling exponent to another at some characteristic size. We collate and review data on size-based scaling laws for resource acquisition, mobility, sensory range, and progeny size for all pelagic marine life, from bacteria to whales. Further, we review and develop simple theoretical arguments for observed scaling laws and the characteristic sizes of a change or breakdown of power laws. We divide life in the ocean into seven major realms based on trophic strategy, physiology, and life history strategy. Such a categorization represents a move away from a taxonomically oriented description toward a trait-based description of life in the oceans. Finally, we discuss life forms that transgress the simple size-based rules and identify unanswered questions.
+Metal organic framework (MOF)-based adsorptive membranes are attractive materials in high flux separation and/or in abatement of hazardous materials. However, fabrication of continuous MOF membrane with ultra-high loading and anti-solvent property is a challenging task. Here, the authors report a coordination replication synthetic approach via a morphological replacement procedure that employs pre-shaped Al2O3 microfiltration membrane to produce freestanding MOF multifunctional membrane (FMMMs). The authors achieve precise control of crystal size, morphology, and orientation on the FMMMs. Moreover, the intrinsic porous structure inherited from Al2O3 pre-fabricated membrane and newly introduced MOF active sites synergistically contribute to a great rejection (99%) of organic dyes from organic solvent with a permeability over 175 L m<sup>−2</sup> h<sup>−1</sup> bar<sup>−1</sup>. Furthermore, the as-synthesized FMMMs enable heterogeneous HCHO catalytic oxidation and extremely rapid 2-chloroethyl ethyl sulfide (CEES) detoxification. This work opens the way to design high-performance FMMMs from pre-shaped membranes for various applications.

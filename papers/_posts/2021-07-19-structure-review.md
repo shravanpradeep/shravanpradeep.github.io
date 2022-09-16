@@ -1,33 +1,33 @@
 ---
 layout: paper
-title: "Structural basis of torque generation in the bi-directional bacterial flagellar motor"
-year: "2021"
-shortref: "Hu, Santiveri, Wadhwa et al., <i>Trends Biochem Sci</i> 2021"
+title: "Hydrodynamic origin for the suspension viscoelasticity of rough colloids"
+year: "2022"
+shortref: "Pradeep, Wessel, and Hsiao, <i>J. Rheo.</i> 2022"
 nickname: structural-basis-torque-generation
-journal: "Trends Biochem Sci"
-volume: 
-issue: 
-pages: 
-authors: "Hu H, Santiveri M, Wadhwa N, Berg HC, Erhardt M, Taylor NMI"
-image: /assets/images/papers/structure-review.png
-fulltext: https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(21)00139-0
+journal: "Journal of Rheology"
+volume: 66
+issue: 5
+pages: 895-906
+authors: "Shravan Pradeep, Alan Wessel, Lilian C Hsiao"
+image: 
+fulltext: https://sor.scitation.org/doi/10.1122/8.0000424
 pdf: 
-pdflink: https://www.cell.com/action/showPdf?pii=S0968-0004%2821%2900139-0
+pdflink: 
 github: 
 pmid: 
 pmcid: 
 f1000: 
 figshare: 
-doi: 10.1016/j.tibs.2021.06.005
+doi: 
 category: paper
 published: true
 peerreview: true
 preprint: false
-review: true
-tags: [bacterial flagellar motor, stator unit, proton/sodium channel, torque generation, structural biology, cryo-electron microscopy]
+review: false
+tags: []
 ---
 {% include JB/setup %}
 
 # Abstract 
 
-The flagellar stator unit is an oligomeric complex of two membrane proteins (MotA<sub>5</sub>B<sub>2</sub>) that powers bi-directional rotation of the bacterial flagellum. Harnessing the ion motive force across the cytoplasmic membrane, the stator unit operates as a miniature rotary motor itself to provide torque for rotation of the flagellum. Recent cryo-electron microscopic (cryo-EM) structures of the stator unit provided novel insights into its assembly, function, and subunit stoichiometry, revealing the ion flux pathway and the torque generation mechanism. Furthermore, in situ cryo-electron tomography (cryo-ET) studies revealed unprecedented details of the interactions between stator unit and rotor. In this review, we summarize recent advances in our understanding of the structure and function of the flagellar stator unit, torque generation, and directional switching of the motor.
+We report the linear rheology for dense suspensions of sterically stabilized smooth and mesoscopically rough colloids interacting as hard particles. Small amplitude oscillatory measurements reveal that rough colloids at high volume fractions exhibit storage and loss moduli that are orders of magnitude greater than smooth colloids. Frequency-concentration superposition is used to collapse the viscoelasticity data onto a master curve, where shift factors suggest a more elastic microstructure and reduced cage volume for rough particles. A combination of the mode-coupling theory, hydrodynamic modeling, and the activated hopping theory shows that these rough particles with significantly reduced localization lengths tend to become trapped in their glassy cages for extended periods of time. High-frequency data show that rough colloids, but not smooth colloids, display a transition from a free-draining to a fully lubricated state above the crossover volume fraction and, furthermore, exhibit solidlike behavior. Scaling analyses support the idea that lubrication forces between interlocking asperities are enhanced, leading to rotational constraints and stress-bearing structures that significantly elevate the viscoelasticity of dense suspensions. The results provide a framework for how particle surface topology affects the linear rheology in applications such as coatings, cement, consumer products, and shock-absorbing materials.

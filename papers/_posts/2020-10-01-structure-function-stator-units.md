@@ -1,32 +1,33 @@
 ---
 layout: paper
-title: "Structure and function of stator units of the bacterial flagellar motor"
-year: "2020"
-shortref: "Santiveri et al., <i>Cell</i> 2020"
+title: "Rheology of debris-flow materials is controlled by the distance from jamming"
+year: "2022"
+shortref: "Kostynick, Matinpour, Pradeep et al., <i>EarthArXiv</i> 2022"
 nickname: structure-function-stator-units
-journal: "Cell"
-volume: 183
-issue: 1
-pages: 244-57
-authors: "Santiveri M, Roa-Eguiara A, Kühne C, Wadhwa N, Hu H, Berg HC, Erhardt M, Taylor NMI"
-image: /assets/images/papers/motor-art-taylor.jfif
-fulltext: https://www.cell.com/cell/fulltext/S0092-8674(20)31007-2
+journal: "EarthArXiv"
+volume: 
+issue: 
+pages: 
+authors: "Robert Paul Kostynick, Hadis Matinpour, Shravan Pradeep, Sarah Haber, Alban Sauret, Eckart Meiburg, Thomas Dunne, Paulo Arratia, Douglas J Jerolmack"
+image: 
+fulltext: https://eartharxiv.org/repository/view/3323/
 pdf: 
-pdflink: https://www.cell.com/cell/pdf/S0092-8674(20)31007-2.pdf
+pdflink: 
 github: 
-pmid: 32931735
+pmid: 
 pmcid: 
 f1000: 
 figshare: 
-doi: 10.1016/j.cell.2020.08.016
-category: paper
+doi: 
+category: preprint
 published: true
-peerreview: true
+peerreview: false
 review: false
+preprint: true
 tags: [bacterial flagellar motor, chemotaxis, cryo-electron, ion channel, microbiology, microscopy, motility, stator unit, structural biology, torque generation]
 ---
 {% include JB/setup %}
 
 # Abstract 
 
-Many bacteria use the flagellum for locomotion and chemotaxis. Its bidirectional rotation is driven by a membrane-embedded motor, which uses energy from the transmembrane ion gradient to generate torque at the interface between stator units and rotor. The structural organization of the stator unit (MotAB), its conformational changes upon ion transport, and how these changes power rotation of the flagellum remain unknown. Here, we present ~3 Å-resolution cryoelectron microscopy reconstructions of the stator unit in different functional states. We show that the stator unit consists of a dimer of MotB surrounded by a pentamer of MotA. Combining structural data with mutagenesis and functional studies, we identify key residues involved in torque generation and present a detailed mechanistic model for motor function and switching of rotational direction.
+Debris flows are dense and fast-moving complex suspensions of soil and water that threaten lives and infrastructure. Assessing the hazard potential of debris flows requires predicting yield and flow behavior. Reported measurements of rheology for debris-flow slurries are highly variable and sometimes contradictory, due to heterogeneity in grain size, shape, chemical composition, and solid-volume fraction ($$\phi$$). Here we examine the composition and flow behavior of source materials that formed the post-wildfire debris flows in Montecito, CA in 2018, for a wide range of $$\phi$$ that encapsulates debris-flow formation by overland flow. We find that shear viscosity and yield stress are controlled by the distance from jamming, $$\Delta\phi$$ = $$\phi_m$$ − $$\phi$$, and that the jamming fraction $$\phi_m$$ depends on grain-size polydispersity and friction. By re-scaling shear and viscous stresses to account for these effects, the data collapse onto a simple non-dimensional flow curve indicative of a Bingham plastic (viscoplastic) fluid. Given the highly nonlinear dependence of rheology on $$\Delta\phi$$, our findings suggest that determining the jamming fraction for natural materials will significantly improve flow models for geophysical suspensions such as hyperconcentrated flows and debris flows.
