@@ -35,7 +35,7 @@ Conference Chair/Co-Chair:
 * American Physical Society March Meeting 
 
 2022-present &nbsp; &nbsp; Climate, Diversity, Equity & Inclusion CommitteeMember, Penn Arts & Sciences, UPenn<br>
-2019-2022 Student Affairs Committee Member, Division of Soft Matter, American Physical Society<br>
+2019-2022 &nbsp; &nbsp; Student Affairs Committee Member, Division of Soft Matter, American Physical Society<br>
 2021-2022 Alumni Mentoring Program Mentor, Chemical & Biomolecular Engineering, NC State<br>
 2019 Graduate Recruitment Event Captain, Chemical & Biomolecular Engineering, NC State<br>
 2017-2018 Vice-President, Chemical & Biomolecular Engineering Graduate Student Association, NC State<br>
