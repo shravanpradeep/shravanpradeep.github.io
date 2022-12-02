@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "New Paper out in PNAS"
+title: "Work exploring suspension rheology approach to debris flows published in <i>PNAS</i>"
 author: "Shravan Pradeep"
 author_handle: "shravan"
 # image: /assets/images/news/microscope.jpg

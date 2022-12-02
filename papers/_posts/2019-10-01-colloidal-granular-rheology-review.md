@@ -2,14 +2,14 @@
 layout: paper
 title: "Experimental synthesis and characterization of rough particles for colloidal and granular rheology"
 year: "2019"
-shortref: "Hsiao and Pradeep, <i>Curr Opin Colloid Interface Sci.</i> 2019"
+shortref: "Hsiao and Pradeep, <i>Curr. Opin. Colloid Interface Sci.</i> 2019"
 nickname: colloidal-granular-rheology-review
 journal: "Current Opinion in Colloid & Interface Science"
 volume: 43
 issue: 
 pages: 94-112
 authors: "Lilian C Hsiao, Shravan Pradeep"
-image: 
+image: /assets/images/papers/2019-cocis-review.png
 fulltext: https://www.sciencedirect.com/science/article/abs/pii/S1359029419300081?via%3Dihub
 pdf: 
 pdflink: 

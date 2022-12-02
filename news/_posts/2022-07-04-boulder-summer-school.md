@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Attending Boulder Summer School"
+title: "Attending Boulder Summer School on <i>Hydrodynamics Across Scales</i> during summer"
 author: "Shravan Pradeep"
 author_handle: "shravan"
 # image: /assets/images/news/microscope.jpg

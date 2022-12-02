@@ -9,7 +9,7 @@ volume: 17
 issue: 2
 pages: 1125-1132
 authors: "Shravan Pradeep, Sai Raghuram, Mahua Ghosh Chaudhury, Sonal Mazumder"
-image: 
+image: /assets/images/papers/2017-jnn-zns.png
 fulltext: https://www.ingentaconnect.com/contentone/asp/jnn/2017/00000017/00000002/art00035
 pdf: 
 pdflink: 
@@ -29,4 +29,4 @@ tags: [2-mercapoethanol, capping agent, chitosan, photocatalysis, quantum confin
 
 # Abstract 
 
-Fe<sup>3+</sup> and Mn<sup>2+</sup> capped ZnS quantum dots were synthesized using the chemical precipitation method at room temperature in aqueous media. The effect of 2-Mercaptoethanol and Chitosan as capping agents and dopants were investigated using Fourier Transform Infra-Red (FTIR), X-ray Diffraction (XRD), UV-Visible and Field Emission Scanning Electron Microscopy (FESEM) analysis of the nanocrystals. FTIR revealed the presence of respective capping agents and FESEM micrograph identifies the particles as poly-dispersed. TEM images showed agglomerated particles with crystal sized ˜3 nm. Particles were analyzed as cubic structured with peaks indexed at (1 1 1), (2 2 1) and (3 1 1) and an average crystalline size of 2.49±0.06 nm. Blue shift is obtained by both doping agents, and band gap values of ranging from 3.75–4.95 eV were reported. Characterizations suggests 2-mercaptoethanol as better capping agent compared to chitosan and has a greater potential for photocatalytic applications
+Fe<sup>3+</sup> and Mn<sup>2+</sup> capped ZnS quantum dots were synthesized using the chemical precipitation method at room temperature in aqueous media. The effect of 2-Mercaptoethanol and Chitosan as capping agents and dopants were investigated using Fourier Transform Infra-Red (FTIR), X-ray Diffraction (XRD), UV-Visible and Field Emission Scanning Electron Microscopy (FESEM) analysis of the nanocrystals. FTIR revealed the presence of respective capping agents and FESEM micrograph identifies the particles as poly-dispersed. TEM images showed agglomerated particles with crystal sized &asymp;3 nm. Particles were analyzed as cubic structured with peaks indexed at (1 1 1), (2 2 1) and (3 1 1) and an average crystalline size of 2.49±0.06 nm. Blue shift is obtained by both doping agents, and band gap values of ranging from 3.75–4.95 eV were reported. Characterizations suggests 2-mercaptoethanol as better capping agent compared to chitosan and has a greater potential for photocatalytic applications

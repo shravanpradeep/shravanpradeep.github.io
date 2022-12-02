@@ -13,36 +13,36 @@ image: /assets/images/team/shravan.jpg
 cv: /assets/pdfs/pradeep-cv.pdf
 alum: false
 ---
-Shravan obtained his Ph.D. in Chemical Engineering from NC State University where he was awarded the <i>[James K. Ferrell Outstanding Ph.D. Student Award](https://www.cbe.ncsu.edu/graduate/graduate-student-awards/)</i> by the Department Chemical and Biomolecular Engineering. At [Hsiao SMART Lab](https://www.hsiaolab.com/), Shravan studied the effects of particle surface anisotropy (roughness) on linear and non-linear flow mechanics in dense colloidal suspensions.  
+## Education
 
-## Honors and Awards 
+2021 &nbsp; &nbsp; Ph.D. in Chemical Engineering, North Carolina State University, Raleigh, NC<br>
+2015 &nbsp; &nbsp; M..E in Chemical Engineering, Birla Institute of Technology and Science Pilani, Pilani Campus, India<br>
+2012 &nbsp; &nbsp; B.Tech. in Chemical Engineering, Amrita Vishwa Vidyapeetham University, Coimbatore, India
 
-2022 Postdoctoral Poster Award, Society of Rheology Annual Meeting<br>
-2022 Diverse Leaders for the Future, Future Faculty Workshop, University of Delaware<br>
-2022 James K. Ferrell Outstanding Ph.D. Graduate Award, Chemical & Biomolecular Engineering, NC State<br>
-2021 Langmuir Graduate Student Oral Presentater, American Chemical Society<br>
-2019 Travel Assistance Award, Graduate Student Association, NC State University<br>
-2019 Conference Travel Award, College of Engineering, NC State University <br>
-2016 Provost’s University Graduate Fellowship, College of Engineering, NC State University <br>
-2015 Poster Award, Indian Institute of Chemical Engineers, Pilani Chapter<br>
-2012 University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
-2012 Prime Minister’s Merit Scholarship, Ministry of Defense, Government of India
+### Honors and Awards (Selected) 
 
-## Professional Services
+2022 &nbsp; &nbsp; Postdoctoral Poster Award, Society of Rheology Annual Meeting<br>
+2022 &nbsp; &nbsp; Diverse Leaders for the Future, Future Faculty Workshop, University of Delaware<br>
+2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, Chemical & Biomolecular Engg., NC State<br>
+2021 &nbsp; &nbsp; Langmuir Graduate Student Oral Presenter, American Chemical Society<br>
+2019 &nbsp; &nbsp; Travel Assistance Award, Graduate Student Association, NC State University<br>
+2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
+2015 &nbsp; &nbsp; Poster Award, Indian Institute of Chemical Engineers, Pilani Chapter<br>
+2012 &nbsp; &nbsp; University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
+2012 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
 
-Conference Chair/Co-Chair:
+### Professional Services (Selected)
+
+Journal Referee: Nature Communications, Physical Review Letters, Journal of Colloid and Interface Science 
+
+Conference Chair/Co-Chair: 
 * Society of Rheology Annual Meeting
 * American Physical Society March Meeting 
 
-2022-present &nbsp; &nbsp; Climate, Diversity, Equity & Inclusion CommitteeMember, Penn Arts & Sciences, UPenn<br>
-2019-2022 &nbsp; &nbsp; Student Affairs Committee Member, Division of Soft Matter, American Physical Society<br>
-2021-2022 Alumni Mentoring Program Mentor, Chemical & Biomolecular Engineering, NC State<br>
-2019 Graduate Recruitment Event Captain, Chemical & Biomolecular Engineering, NC State<br>
-2017-2018 Vice-President, Chemical & Biomolecular Engineering Graduate Student Association, NC State<br>
-2016-2018 Chemical Engineering Department Ambassador, Office of International Services, NC State<br>
-2014-2015 Master's Student Body Representative, Chemical Engineering Department, BITS Pilani<br>
-2014-2015 Student Senate Member, Academic Counselling Cell, BITS Pilani
+2022-present &nbsp; Climate, Diversity, Equity & Inclusion Committee Member, Penn Arts & Sciences, UPenn<br>
+2019-2022 &nbsp; &nbsp; &nbsp; &nbsp;Student Affairs Committee Member, Division of Soft Matter, American Physical Society<br>
+2021-2022 &nbsp; &nbsp; &nbsp; &nbsp;Alumni Mentoring Program Mentor, Chemical & Biomolecular Engineering, NC State<br>
+2017-2018 &nbsp; &nbsp; &nbsp; &nbsp;Vice-President, Chemical & Biomolecular Engg. Graduate Student Association, NC State<br>
 
 Professional Society Memberships: American Institute of Chemical Engineers (AIChE), Society of Rheology (SOR), American Physical Society (APS), American Chemical Society (ACS), and American Geophysical Union (AGU).
 
-Journal Referee: Nature Communications, Physical Review Letters 

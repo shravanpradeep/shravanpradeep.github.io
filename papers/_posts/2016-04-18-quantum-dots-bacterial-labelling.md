@@ -9,7 +9,7 @@ volume: 39
 issue: 2
 pages: 405-413
 authors: "H S Raghuram, Shravan Pradeep, Subhra Dash, Rajdeep Chowdhury, Sonal Mazumder"
-image: 
+image: /assets/images/papers/2016-bms-biolabel.png
 fulltext: https://link.springer.com/article/10.1007/s12034-016-1178-y
 pdf: 
 pdflink: 

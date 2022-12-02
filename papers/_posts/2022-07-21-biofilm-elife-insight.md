@@ -9,7 +9,7 @@ volume: 11
 issue: 
 pages: e80891
 authors: "Shravan Pradeep, Paulo E Arratia"
-image: 
+image: /assets/images/papers/2022-elife-insight.png
 fulltext: https://elifesciences.org/articles/80891
 pdf: 
 pdflink: 

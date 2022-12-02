@@ -9,7 +9,7 @@ volume: 66
 issue: 5
 pages: 895-906
 authors: "Shravan Pradeep, Alan Wessel, Lilian C Hsiao"
-image: 
+image: /assets/images/papers/2022-jor-lve.png
 fulltext: https://sor.scitation.org/doi/10.1122/8.0000424
 pdf: 
 pdflink: 

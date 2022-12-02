@@ -1,10 +1,10 @@
 ---
 layout: news
-title: "New paper out in Journal of Rheology"
+title: "Our work on rough suspension viscoelasticity out in the <i>Journal of Rheology</i>"
 author: "Shravan Pradeep"
 author_handle: "shravan"
 # image: /assets/images/news/microscope.jpg
 category: news
 tags: [publication]
 ---
-Excited to share our paper on how hydrodynamic interactions between the surface asperities in rough colloids enhance the viscoelastic moduli in dense colloidal suspensions. The work is selected as the <i>Editor's Featured Article</i>.
+Excited to share our recent manuscript exploring the hydrodynamic origins of enhanced viscoelasticity in rough colloidal suspensions. The work is selected as the <i>Editor's Featured Article</i>.
