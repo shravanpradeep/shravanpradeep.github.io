@@ -18,7 +18,7 @@ alum: false
 2021 &nbsp; &nbsp; <b>Ph.D.</b> Chemical Engineering, North Carolina State University, Raleigh, NC<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Advisor: [Prof. Lilian C. Hsiao](https://www.cbe.ncsu.edu/person/chsiao2/){:target="_blank"}<br>
 2015 &nbsp; &nbsp; <b>M.S.</b> Chemical Engineering, Birla Institute of Technology and Science (BITS), Pilani, India<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Advisor: [Sonal Mazumder, Ph.D.](https://www.linkedin.com/in/sonal-mazumder-ph-d-547baa12/){:target="_blank"} (Current Position: U.S. Food and Drug Administration)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Advisor: [Sonal Mazumder, Ph.D.](https://www.linkedin.com/in/sonal-mazumder-ph-d-547baa12/){:target="_blank"} (Current Position: Regulatory Scientist, U.S. Food and Drug Administration)<br>
 2012 &nbsp; &nbsp; <b>B.S.</b> Chemical Engineering, Amrita Vishwa Vidyapeetham University, Coimbatore, India
 
 ### Honors and Awards (Selected) 
