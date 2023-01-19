@@ -8,7 +8,7 @@ journal: Proceedings of National Academy of Sciences
 volume: 
 issue: 
 pages: 
-authors: "Robert Kostynick*, Hadis Matinpour*, Shravan Pradeep*, Sarah Haber, Alban Sauret, Eckart Meiburg, Thomas Dunne, Paulo Arratia, Douglas Jerolmack (*equal contribution)"
+authors: "Robert Kostynick&#xb6;, Hadis Matinpour&#xb6;, Shravan Pradeep<sup>&#xb6;</sup>, Sarah Haber, Alban Sauret, Eckart Meiburg, Thomas Dunne, Paulo Arratia, Douglas Jerolmack"
 image: /assets/images/papers/2022-pnas-debris.png
 fulltext: https://www.pnas.org/doi/10.1073/pnas.2209109119
 pdf: 
