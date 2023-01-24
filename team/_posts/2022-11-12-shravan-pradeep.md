@@ -23,13 +23,12 @@ alum: false
 
 ### Honors and Awards (Selected) 
 
-2022 &nbsp; &nbsp; Postdoctoral Poster Award, Society of Rheology Annual Meeting<br>
-2022 &nbsp; &nbsp; Diverse Leaders for the Future, Future Faculty Workshop, University of Delaware<br>
+2022 &nbsp; &nbsp; Postdoctoral Poster Award - Third Place, Society of Rheology Annual Meeting<br>
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, Chemical & Biomolecular Engg., NC State<br>
-2021 &nbsp; &nbsp; Langmuir Graduate Student Oral Presenter, American Chemical Society<br>
+2021 &nbsp; &nbsp; Langmuir Graduate Student Oral Presentation Award, American Chemical Society<br>
 2019 &nbsp; &nbsp; Travel Assistance Award, Graduate Student Association, NC State University<br>
 2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
-2015 &nbsp; &nbsp; Poster Award, Indian Institute of Chemical Engineers, Pilani Chapter<br>
+2015 &nbsp; &nbsp; Poster Award - Second Place, Indian Institute of Chemical Engineers, Pilani Chapter<br>
 2012 &nbsp; &nbsp; University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
 2012 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
 
