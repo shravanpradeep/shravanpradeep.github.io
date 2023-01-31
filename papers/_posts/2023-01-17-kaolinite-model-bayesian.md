@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Understanding the rheology of kaolinite clay suspensions using Bayesian inference"
-year: "2022"
-shortref: "Ran, Pradeep et al., <i>J. Rheo.</i> 2022"
+year: "2023"
+shortref: "Ran, Pradeep et al., <i>J. Rheo.</i> 2023"
 nickname: kaolinite-model-bayesian
 journal: Journal of Rheology 
 volume: 
