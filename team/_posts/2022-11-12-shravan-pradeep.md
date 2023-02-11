@@ -31,19 +31,3 @@ alum: false
 2015 &nbsp; &nbsp; Poster Award - Second Place, Indian Institute of Chemical Engineers, Pilani Chapter<br>
 2012 &nbsp; &nbsp; University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
 2012 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
-
-### Professional Services (Selected)
-
-Journal Referee: Nature Communications, Physical Review Letters, Journal of Colloid and Interface Science 
-
-Conference Chair/Co-Chair: 
-* Society of Rheology Annual Meeting
-* American Physical Society March Meeting 
-
-2022-present &nbsp; Climate, Diversity, Equity & Inclusion Committee Member, Penn Arts & Sciences, UPenn<br>
-2019-2022 &nbsp; &nbsp; &nbsp; &nbsp;Student Affairs Committee Member, Division of Soft Matter, American Physical Society<br>
-2021-2022 &nbsp; &nbsp; &nbsp; &nbsp;Alumni Mentoring Program Mentor, Chemical & Biomolecular Engineering, NC State<br>
-2017-2018 &nbsp; &nbsp; &nbsp; &nbsp;Vice-President, Chemical & Biomolecular Engg. Graduate Student Association, NC State<br>
-
-Professional Society Memberships: American Institute of Chemical Engineers (AIChE), Society of Rheology (SOR), American Physical Society (APS), American Chemical Society (ACS), and American Geophysical Union (AGU).
-
