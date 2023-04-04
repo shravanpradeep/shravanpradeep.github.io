@@ -74,7 +74,19 @@
 			<!-- <div class="smallspacer"></div> -->
 			<i class="ai ai-google-scholar fa-fw"></i>
 			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}&sortby=pubdate" target="_blank">{{ member.title }}</a>
-		</div>		
+		</div>	
+		<div class="bigspacer"></div>	
+		{% endif %}		
+		{% if member.scholar %}
+		<div class="smallhead">
+			LinkedIn
+		</div>	
+		<div class="spacer"></div>
+		<div class="pad-left note">
+			<!-- <div class="smallspacer"></div> -->
+			<i class="fa fa-linkedin-square"></i>
+			<a class="off" href="https://www.linkedin.com/in/shravan-pradeep-97164728/" target="_blank">{{ member.title }}</a>
+		</div>			
 		<div class="bigspacer"></div>	
 		{% endif %}				   	
 		{% if member.email %}

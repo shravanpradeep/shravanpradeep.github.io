@@ -14,7 +14,7 @@ repository: shravanpradeep/shravanpradeep.github.io
 # so be sure to set them if your theme uses them.
 #
 title : Shravan Pradeep, PhD
-tagline: Soft earth mediated matter
+tagline: Soft Earth Mediated Matter
 institution:
   url: https://www.upenn.edu/
   name: University of Pennsylvania
@@ -26,9 +26,10 @@ center:
   name: Mechanical Engineering & Applied Mechanics
 author :
   name : Shravan Pradeep
-  email : spradeep@upenn.edu
+  email : spradeep@sas.upenn.edu
   github : shravanpradeep
   twitter : pradeep_shravan
+  linkedin : shravan-pradeep-97164728
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
