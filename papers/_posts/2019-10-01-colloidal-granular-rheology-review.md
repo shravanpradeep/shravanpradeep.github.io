@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Experimental synthesis and characterization of rough particles for colloidal and granular rheology"
+title: "Experimental synthesis and characterization of rough particles for rheology"
 year: "2019"
 shortref: "Hsiao and Pradeep, <i>Curr. Opin. Colloid Interface Sci.</i> 2019"
 nickname: colloidal-granular-rheology-review

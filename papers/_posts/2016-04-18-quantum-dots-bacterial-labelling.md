@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Chitosan-encapsulated ZnS:M (M: Fe<sup>3+</sup> or Mn<sup>2+</sup>) quantum dots for fluorescent labelling of sulphate-reducing bacteria"
+title: "Quantum dots for fluorescent labelling of sulphate-reducing bacteria"
 year: "2016"
 shortref: "Raghuram, Pradeep et al., <i>Bull. Mater. Sci</i> 2016"
 nickname: quantum-dots-bacterial-labelling

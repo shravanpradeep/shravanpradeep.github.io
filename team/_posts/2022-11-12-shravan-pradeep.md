@@ -30,4 +30,4 @@ alum: false
 2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
 2015 &nbsp; &nbsp; Poster Award - Second Place, Indian Institute of Chemical Engineers, Pilani Chapter<br>
 2012 &nbsp; &nbsp; University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
-2012 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
+2008 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India

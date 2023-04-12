@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Freestanding metal organic framework‐based multifunctional membranes fabricated <i>via</i> pseudomorphic replication toward liquid‐and gas‐hazards abatement"
+title: "MOF‐based multifunctional membranes toward liquid‐and gas‐hazards abatement"
 year: "2016"
 shortref: "Dai, Pradeep et al., <i>Adv. Mater. Interfaces</i> 2021"
 nickname: mof-membrane-pseudomorphic-replication

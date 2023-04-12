@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Water-stable zirconium-based metal-organic frameworks armed polyvinyl alcohol nanofibrous membrane with enhanced antibacterial therapy for wound healing"
+title: "Water-stable metal-organic frameworks for wound healing"
 year: "2021"
 shortref: "Zhu et al. <i>J. Colloid Interface Sci.</i> 2021"
 nickname: pva-membrane-antibacterial

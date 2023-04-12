@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Rapid Synthesis of Pure and Doped ZnS Quantum Dots for Photocatalytic Degradation of Biological Dye Pollutants"
+title: "ZnS quantum dots for photocatalytic degradation of biological dye pollutants"
 year: "2017"
 shortref: "Pradeep, Raghuram, and Mazumder, <i>Mater. Focus</i> 2017"
 nickname: zns-quantum-dots-photodegradation

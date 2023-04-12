@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Synthesis and characterization of Fe<sup>3+</sup> and Mn<sup>2+</sup> doped ZnS quantum dots for photocatalytic applications: effect of 2-mercaptoethanol and chitosan as capping agents"
+title: "Fe<sup>3+</sup> and Mn<sup>2+</sup> doped ZnS quantum dots for photocatalytic applications"
 year: "2017"
 shortref: "Pradeep et al. <i>J. Nanosci. Nanotechnol.</i> 2017"
 nickname: quantum-dots-capping-agent-effects
