@@ -7,4 +7,4 @@ author_handle: "shravan"
 category: news
 tags: [publication]
 ---
-Excited to share our recent manuscript exploring the hydrodynamic origins of enhanced viscoelasticity in rough colloidal suspensions. The work is selected as the <i>Editor's Featured Article</i>.
+Excited to share our recent manuscript exploring the hydrodynamic origins of enhanced viscoelasticity in rough colloidal suspensions. The work is selected as the <b>Editor's Featured Article</b>.

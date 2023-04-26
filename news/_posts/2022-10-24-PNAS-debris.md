@@ -7,4 +7,4 @@ author_handle: "shravan"
 category: news
 tags: [paper]
 ---
-Excited to share that our recent work on trying to understand the flow properties of debris flows is published in PNAS and available through open access [here](https://www.pnas.org/doi/10.1073/pnas.2209109119). 
+The project to understand the flow properties of debris flows is published in <i>PNAS</i> and available via. open access [here](https://www.pnas.org/doi/10.1073/pnas.2209109119). 
