@@ -23,10 +23,10 @@ alum: false
 
 ### Honors and Awards (Selected) 
 
-2023 &nbsp; &nbsp; Victor K. LaMer Award - Finalist, ACS Colloids & Surface Science Division<br>
+2023 &nbsp; &nbsp; Victor K. LaMer Award Finalist, ACS Colloids & Surface Science Division<br>
 2022 &nbsp; &nbsp; Postdoctoral Poster Award - Third Place, Society of Rheology Annual Meeting<br>
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, Chemical & Biomolecular Engg., NC State<br>
-2021 &nbsp; &nbsp; Langmuir Graduate Student Award - Honorable Mention, ACS Colloids & Surface Science<br>
+2021 &nbsp; &nbsp; Langmuir Graduate Student Award Finalist, ACS Colloids & Surface Science<br>
 2019 &nbsp; &nbsp; Travel Assistance Award, Graduate Student Association, NC State University<br>
 2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
 2015 &nbsp; &nbsp; Poster Award - Second Place, Indian Institute of Chemical Engineers, Pilani Chapter<br>
