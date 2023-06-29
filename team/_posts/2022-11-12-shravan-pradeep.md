@@ -2,7 +2,7 @@
 layout: member
 title: "Shravan Pradeep"
 category: Me
-position: Postdoctoral Research Associate, University of Pennsylvania
+position: Postdoctoral Researcher, University of Pennsylvania
 nickname: Shravan
 handle: shravan
 email: spradeep@sas.upenn.edu
