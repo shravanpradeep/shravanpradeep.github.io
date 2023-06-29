@@ -10,7 +10,7 @@ twitter: pradeep_shravan
 github: 
 scholar: l-ahtSIAAAAJ&view_op=list_works&sortby=pubdate
 image: /assets/images/team/shravan.jpg
-cv: /assets/pdfs/Shravan Pradeep - Curriculum Vitae.pdf
+cv: /assets/pdfs/Shravan_Pradeep_Curriculum_Vitae.pdf
 alum: false
 ---
 ## Education
