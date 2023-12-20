@@ -1,8 +1,8 @@
 ---
-layout: preprint
+layout: paper
 title: "Sedimentation dynamics of passive particles in dilute bacterial suspensions: emergence of bioconvection"
 year: "2023"
-shortref: "Maldonado, Pradeep et al., <i>PREPRINT</i> 2023"
+shortref: "Maldonado, Pradeep et al."
 nickname: sedimentation-bioconvection
 journal: 
 volume: 
@@ -20,8 +20,8 @@ f1000:
 figshare: 
 doi: 
 category: paper
-published: false
-peerreview: false
+published: true
+peerreview: true
 preprint: true
 review: false
 tags: []
