@@ -10,7 +10,7 @@ issue:
 pages: 
 authors: "Bryan O. Torres Maldonado, Shravan Pradeep, Ranjiangshang Ran, Douglas Jerolmack, Paulo E. Arratia"
 image: /assets/images/papers/2023-jfm-preprint.png
-fulltext: https://arxiv.org/abs/2312.10226
+fulltext: https://arxiv.org/pdf/2312.10226.pdf
 pdf: 
 pdflink: 
 github: 
