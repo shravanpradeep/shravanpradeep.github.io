@@ -21,6 +21,7 @@ alum: false
 
 ### Honors and Awards (Selected) 
 
+2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
 2023 &nbsp; &nbsp; Victor K. LaMer Award Finalist, ACS Colloids & Surface Science Division<br>
 2022 &nbsp; &nbsp; Postdoctoral Poster Award - Third Place, Society of Rheology Annual Meeting<br>
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, NC State<br>
