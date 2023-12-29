@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Excited to attend the KITP program on geophysical flows"
+title: "Shravan to attend KITP program at UCSB"
 author: "Shravan Pradeep"
 author_handle: "shravan"
 # image: /assets/images/news/microscope.jpg

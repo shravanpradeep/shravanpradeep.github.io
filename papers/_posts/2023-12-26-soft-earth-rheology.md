@@ -2,7 +2,7 @@
 layout: paper
 title: "Origins of complexity in the rheology of Soft Earth suspensions"
 year: "2023"
-shortref: "Pradeep et al. arXiv 2023"
+shortref: "Pradeep, Arratia, and Jerolmack, arXiv 2023"
 nickname: soft-earth-rheology
 journal: arXiv 
 volume: 

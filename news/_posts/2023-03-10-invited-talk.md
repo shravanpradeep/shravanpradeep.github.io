@@ -7,4 +7,4 @@ author_handle: "shravan"
 category: news
 tags: []
 ---
-Shravan delivered an invited talk titled "Material constraints dictate flow mechanics in dense suspensions" at the DSOFT sponsored <i>Frontiers in Soft Matter</i> session. 
+I delivered an invited talk titled "Material constraints dictate flow mechanics in dense suspensions" at the DSOFT sponsored <i>Frontiers in Soft Matter</i> session. 
