@@ -2,7 +2,7 @@
 layout: member
 title: "Shravan Pradeep"
 category: Me
-position: Postdoctoral Researcher, University of Pennsylvania 
+position: Postdoctoral Researcher, University of Pennsylvania<br>Department of Earth and Environmental Sciences<br>Department of Mechanical Engineering and Applied Mechanics<br>Laboratory for Research on the Structure of Matter
 nickname: Shravan
 handle: shravan
 email: spradeep@sas.upenn.edu
