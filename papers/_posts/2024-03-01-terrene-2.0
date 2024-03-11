@@ -1,0 +1,33 @@
+---
+layout: paper
+title: "Terrene 2.0: Biomaterial composites design & shellular structures development for augmented earthen construction"
+year: "2024"
+shortref: "Lasting et al., <i>Mater. Design</i> 2024"
+nickname: terrene-2.0
+journal: Materials and Design 
+volume: 
+issue: 
+pages: 
+authors: "Liam Lasting, Mostafa Akbari, Destynn Keuchel, Na Kyung Lee, Shravan Pradeep, Shivani Chawla, Abigail Weinstein, Masoud Akbarzadeh, Laia Mogas-Soldevila"
+image: /assets/images/papers/2024-terrene-2.0.jpg
+fulltext: https://www.sciencedirect.com/science/article/pii/S0264127524001643
+pdf: 
+pdflink: 
+github: 
+pmid: 
+pmcid: 
+f1000: 
+figshare: 
+doi: 
+category: paper
+published: true
+peerreview: true
+preprint: false
+review: false
+tags: []
+---
+{% include JB/setup %}
+
+# Abstract 
+
+To transition the construction industry towards sustainable practices, we challenge wasteful methods and non-renewable systems by harnessing local biological materials and augmenting them to describe contemporary forms. Our work enhances the primarily compressive material properties of sand-based compounds to develop a construction method for tension–compression anticlastic shellular structures. We have developed a novel bilayer system with multiscale induced behavior called ChitoSand, made primarily of a sand matrix, incorporating chitosan biopolymer as a microstructural binder, short flax fibers to boost tensile capacity at the mesoscale, and citric acid to increase plasticity, which is then underlaid by a sewn burlap fabric base layer to raise the bending capacity at the macroscale. This produces a fully biodegradable material system that we paired with anticlastic geometry calculations to enhance effective material use and structural form. We then developed an earthen construction workflow that uses reusable pneumatic formwork holding the ChitoSand bilayer composite during hardening in ambient conditions. This research yields a tension–compression system with modern geometry and a minimized environmental footprint.
