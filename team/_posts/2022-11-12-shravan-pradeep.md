@@ -2,7 +2,7 @@
 layout: member
 title: "Shravan Pradeep"
 category: Me
-position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Department of Earth and Environmental Sciences<br>Department of Mechanical Engineering and Applied Mechanics
+position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Department of Earth and Environmental Science<br>Department of Mechanical Engineering and Applied Mechanics
 nickname: Shravan
 handle: shravan
 email: spradeep@sas.upenn.edu
