@@ -4,13 +4,13 @@ title: "Sedimentation dynamics of passive particles in dilute bacterial suspensi
 year: "2024"
 shortref: "Maldonado, Pradeep et al. <i> J. Flu. Mech.</i> 2024"
 nickname: sedimentation-bioconvection
-journal: Journal of Fluid Mechanics, Accepted
+journal: Journal of Fluid Mechanics
 volume: 
 issue: 
 pages: 
 authors: "Bryan O. Torres Maldonado, Shravan Pradeep, Ranjiangshang Ran, Douglas Jerolmack, Paulo E. Arratia"
 image: /assets/images/papers/2023-jfm-preprint.png
-fulltext: https://arxiv.org/pdf/2312.10226.pdf
+fulltext: https://doi.org/10.1017/jfm.2024.437
 pdf: 
 pdflink: 
 github: 
