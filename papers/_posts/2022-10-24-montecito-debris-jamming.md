@@ -4,7 +4,7 @@ title: "Rheology of debris-flow materials is controlled by the distance from jam
 year: "2022"
 shortref: "Kostynick, Matinpour, Pradeep et al., <i>PNAS</i> 2022"
 nickname: montecito-debris-jamming
-journal: Proceedings of National Academy of Sciences
+journal: Proceedings of the National Academy of Sciences
 volume: 
 issue: 
 pages: 

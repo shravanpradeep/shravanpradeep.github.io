@@ -2,7 +2,7 @@
 layout: paper
 title: "Origins of complexity in the rheology of Soft Earth suspensions"
 year: "2024"
-shortref: "Pradeep, Arratia, and Jerolmack, <i>Nat. Commun.</i> (2024)"
+shortref: "Pradeep, Arratia, and Jerolmack, <i>Nat. Commun.</i> 2024"
 nickname: soft-earth-rheology
 journal: Nature Communications 
 volume: 
