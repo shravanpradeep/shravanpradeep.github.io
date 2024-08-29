@@ -2,15 +2,15 @@
 layout: paper
 title: "Origins of complexity in the rheology of Soft Earth suspensions"
 year: "2024"
-shortref: "Pradeep, Arratia, and Jerolmack, <i>Nat. Commun. (In Press)</i>"
+shortref: "Pradeep, Arratia, and Jerolmack, <i>Nat. Commun. (2024)</i>"
 nickname: soft-earth-rheology
-journal: Nature Communications (In Press) 
+journal: Nature Communications (2024)
 volume: 
 issue: 
 pages: 
 authors: "Shravan Pradeep, Paulo E Arratia, Douglas J Jerolmack"
 image: /assets/images/papers/2023-soft-earth-preprint.png
-fulltext: https://arxiv.org/abs/2312.15092
+fulltext: https://www.nature.com/articles/s41467-024-51357-y
 pdf: 
 pdflink: 
 github: 
