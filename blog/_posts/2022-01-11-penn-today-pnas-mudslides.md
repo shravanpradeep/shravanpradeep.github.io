@@ -2,8 +2,8 @@
 layout: post
 title: "Physics of disaster: How mudslides move"
 description: ""
-author: "Shravan Pradeep"
-author_handle: pradeep
+author: []
+author_handle: []
 category: blog
 published: true
 theme: lab

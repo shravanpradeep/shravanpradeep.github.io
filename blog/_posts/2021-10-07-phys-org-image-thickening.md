@@ -2,8 +2,8 @@
 layout: post
 title: "New images lead to better prediction of shear thickening"
 description: ""
-author: "Shravan Pradeep"
-author_handle: pradeep
+author: 
+author_handle: 
 category: blog
 published: true
 theme: lab

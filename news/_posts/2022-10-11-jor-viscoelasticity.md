@@ -1,8 +1,8 @@
 ---
 layout: news
 title: "Rough suspension viscoelasticity work to appear in <i>Journal of Rheology</i>"
-author: "Shravan Pradeep"
-author_handle: "shravan"
+author: 
+author_handle: 
 # image: /assets/images/news/microscope.jpg
 category: news
 tags: [publication]

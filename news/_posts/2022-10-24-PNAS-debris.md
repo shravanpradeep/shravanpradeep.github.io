@@ -1,8 +1,8 @@
 ---
 layout: news
 title: "Debris flows rheology work published in <i>PNAS</i>"
-author: "Shravan Pradeep"
-author_handle: "shravan"
+author: 
+author_handle: 
 # image: /assets/images/news/microscope.jpg
 category: news
 tags: [paper]

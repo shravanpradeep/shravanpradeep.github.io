@@ -14,7 +14,7 @@ repository: shravanpradeep/shravanpradeep.github.io
 # so be sure to set them if your theme uses them.
 #
 title : Shravan Pradeep, PhD
-tagline: Engineering Hierarchical Complex Fluids
+tagline: []
 institution:
   url: https://www.me.upenn.edu/
   name: Mechanical Engineering & Applied Mechanics
@@ -22,8 +22,8 @@ department:
   url: https://earth.sas.upenn.edu/
   name: Earth & Environmental Science
 center:
-  url: https://web.sas.upenn.edu/slm/
-  name: Center for Soft & Living Matter
+  url: https://upenn.edu    
+  name: University of Pennsylvania
 author :
   name : Shravan Pradeep
   email : spradeep@sas.upenn.edu

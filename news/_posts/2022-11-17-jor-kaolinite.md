@@ -1,8 +1,8 @@
 ---
 layout: news
 title: "Bayesian modeling approach for clay rheology prediction published in the <i>Journal of Rheology</i>"
-author: "Shravan Pradeep"
-author_handle: "shravan"
+author: 
+author_handle: 
 # image: /assets/images/news/microscope.jpg
 category: news
 tags: [paper]
