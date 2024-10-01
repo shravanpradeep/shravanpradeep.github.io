@@ -4,11 +4,11 @@ title: "Soft matter mechanics of baseball's rubbing mud"
 year: "2024"
 shortref: "Pradeep, Chen et al. <i>PNAS, In Press</i>"
 nickname: soft-earth-rheology
-journal: PNAS, In Press 
+journal: Proceedings of the National Academy of Sciences (Accepted, In Press) 
 volume: 
 issue: 
 pages: 
-authors: "Shravan Pradeep, Xiangyu Chen,  Paulo E Arratia, Douglas J Jerolmack"
+authors: "Shravan Pradeep, Xiangyu Chen, Ali Seiphoori, David R Vann, Paulo E Arratia, Douglas J Jerolmack"
 image: /assets/images/papers/2024-magic-mud.png
 fulltext: 
 pdf: 
