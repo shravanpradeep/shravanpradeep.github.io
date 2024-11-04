@@ -15,8 +15,6 @@ alum: false
 ---
 ### Selected Honors & Awards
 
-School of Engineering Merit Awards, Amrita School of Engineering
-Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
 2024 &nbsp; &nbsp; Penn CSLM Postdoc Fellowship, Penn Center for Soft and Living Matter<br>
 2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
 2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
