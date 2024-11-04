@@ -15,7 +15,7 @@ alum: false
 ---
 ### Education 
 08.2016 - 08.2021 &nbsp; &nbsp; &nbsp; Ph.D. Chemical Engineering, North Carolina State University<br>
-08.2013 - 05.2015 &nbsp; &nbsp; &nbsp; M.Eng. Chemical Engineering, Birla Institute of Technology & Science Pilani (India)<br>
+08.2013 - 05.2015 &nbsp; &nbsp; &nbsp; M.E. Chemical Engineering, Birla Institute of Technology & Science Pilani (India)<br>
 07.2008 - 05.2012 &nbsp; &nbsp; &nbsp; B.Tech. Chemical Engineering, Amrita Vishwa Vidyapeetham University (India)
 
 ### Professional Appointments
