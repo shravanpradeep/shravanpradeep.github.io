@@ -19,7 +19,6 @@ alum: false
 2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
 2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
 2023 &nbsp; &nbsp; Victor K. LaMer Award Finalist, ACS Colloids & Surface Science Division<br>
-2022 &nbsp; &nbsp; Summer School Fellowship, NSF & University of Colorado, Boulder<br>
 2022 &nbsp; &nbsp; Future Faculty Workshop Scholar, University of Delaware<br>
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, NC State University<br>
 2021 &nbsp; &nbsp; Langmuir Graduate Student Award Finalist, ACS Colloids & Surface Science Division<br>

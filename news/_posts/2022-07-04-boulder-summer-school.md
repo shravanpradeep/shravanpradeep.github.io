@@ -7,4 +7,4 @@ author_handle:
 category: news
 tags: []
 ---
-Shravan is selected to attend the 2022 Boulder Summer School on [Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022).
+Shravan is selected to attend the 2022 Boulder Summer School on [Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022){:target="_blank"}.
