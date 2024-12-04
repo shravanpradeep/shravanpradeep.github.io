@@ -13,8 +13,12 @@ image: /assets/images/team/shravan.jpg
 # cv: /assets/pdfs/Shravan Pradeep - Curriculum Vitae.pdf
 alum: false
 ---
-### Selected Honors & Awards
+### Education
+Aug. 2021 &nbsp; &nbsp; Ph.D. in Chemical Engineering, North Carolina State University<br>
+May. 2015 &nbsp; &nbsp; M.Eng. in Chemical Engineering, Birla Institute of Technology and Science Pilani (India)<br>
+May. 2012 &nbsp; &nbsp; B.Tech. in Chemical Engineering, Amrita Vishwa Vidyapeetham University (India)
 
+### Selected Honors & Awards
 2024 &nbsp; &nbsp; Penn CSLM Postdoc Fellowship, Penn Center for Soft and Living Matter<br>
 2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
 2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
@@ -23,6 +27,4 @@ alum: false
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, NC State University<br>
 2021 &nbsp; &nbsp; Langmuir Graduate Student Award Finalist, ACS Colloids & Surface Science Division<br>
 2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
-2015 &nbsp; &nbsp; Department 1<sup>st</sup> Rank, Chemical Engineering Department, BITS Pilani<br>
-2012 &nbsp; &nbsp; University 3<sup>rd</sup> Rank, Amrita Vishwa Vidyapeetham University<br>
-2008 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
+

@@ -16,14 +16,14 @@ repository: shravanpradeep/shravanpradeep.github.io
 title : Shravan Pradeep, PhD
 tagline: []
 institution:
-  url: https://www.me.upenn.edu/
-  name: Mechanical Engineering & Applied Mechanics
+  url: https://upenn.edu/
+  name: University of Pennsylvania
 department:
   url: https://earth.sas.upenn.edu/
   name: Earth & Environmental Science
 center:
-  url: https://upenn.edu    
-  name: University of Pennsylvania
+  url: https://me.upenn.edu    
+  name: Mechanical Engineering & Applied Mechanics
 author :
   name : Shravan Pradeep
   email : spradeep@sas.upenn.edu
