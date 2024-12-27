@@ -13,10 +13,6 @@ image: /assets/images/team/shravan.jpg
 # cv: /assets/pdfs/Shravan Pradeep - Curriculum Vitae.pdf
 alum: false
 ---
-### Education and Training
-Sep. 2021-present &nbsp; &nbsp;&nbsp;&nbsp;Postdoctoral Researcher, University of Pennsylvania<br> 
-Aug. 2016-Aug. 2021 &nbsp;Ph.D. in Chemical Engineering, North Carolina State University<br>
-
 ### Selected Honors & Awards
 2024 &nbsp; &nbsp; Penn CSLM Postdoc Fellowship, Penn Center for Soft and Living Matter<br>
 2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
