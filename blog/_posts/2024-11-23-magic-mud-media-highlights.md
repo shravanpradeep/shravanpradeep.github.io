@@ -17,4 +17,8 @@ tags: []
 [Physics Today](https://pubs.aip.org/physicstoday/online/43742/Baseball-rubbing-mud-does-in-fact-make-balls){:target="_blank"}<br>
 [NSF Discovery Files](https://www.youtube.com/watch?v=dNvRzqS1rjU){:target="_blank"}<br>
 [Effectively Wild: A FanGraphs Baseball Podcast](https://blogs.fangraphs.com/effectively-wild-episode-2244-their-name-is-mud/){:target="_blank"}<br>
+[American Geophysical Society (AGU) Eos Magazine](https://eos.org/articles/geoscientists-demystify-baseballs-magic-mud){:target="_blank"}<br>
+[Popular Science](https://www.popsci.com/science/baseball-magic-mud/){:target="_blank"}<br>
+[SciTechDaily](https://scitechdaily.com/mlbs-magic-mud-exposed-the-science-behind-baseballs-secret-weapon/){:target="_blank"}<br>
+[Royal Society of Chemistry (RSC) Chemistry World](https://www.chemistryworld.com/news/how-magic-mud-gives-baseball-pitchers-a-better-grip/4020462.article){:target="_blank"}<br>
 and others.

@@ -22,4 +22,5 @@ alum: false
 2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, NC State University<br>
 2021 &nbsp; &nbsp; Langmuir Graduate Student Award Finalist, ACS Colloids & Surface Science Division<br>
 2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
+2008 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
 
