@@ -2,7 +2,7 @@
 layout: member
 title: "Shravan Pradeep"
 category: Me
-position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Postdoctoral Fellow, NSF-ERC for IoT for Precision Agriculture<br>Department of Earth and Environmental Science<br>Department of Mechanical Engineering and Applied Mechanics
+position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Postdoctoral Fellow, NSF-ERC for IoT for Precision Agriculture<br>Department of Earth and Environmental Science
 nickname: Shravan
 handle: shravan
 email: spradeep@sas.upenn.edu
