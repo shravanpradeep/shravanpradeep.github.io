@@ -2,7 +2,7 @@
 layout: member
 title: "Shravan Pradeep"
 category: Me
-position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Postdoctoral Fellow, NSF-ERC for IoT4Ag<br>Department of Earth and Environmental Science<br>Department of Mechanical Engineering and Applied Mechanics
+position: Penn Center for Soft and Living Matter Postdoctoral Fellow<br>Postdoctoral Fellow, NSF-ERC for IoT for Precision Agriculture<br>Department of Earth and Environmental Science<br>Department of Mechanical Engineering and Applied Mechanics
 nickname: Shravan
 handle: shravan
 email: spradeep@sas.upenn.edu
@@ -14,6 +14,7 @@ image: /assets/images/team/shravan.jpg
 alum: false
 ---
 ### Selected Honors & Awards
+2025 &nbsp; &nbsp; Trailblazers in Engineering Fellow, College of Engineering, Purdue University<br>
 2024 &nbsp; &nbsp; Penn CSLM Postdoc Fellowship, Penn Center for Soft and Living Matter<br>
 2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
 2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
