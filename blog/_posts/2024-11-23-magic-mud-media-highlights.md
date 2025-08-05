@@ -23,4 +23,5 @@ tags: []
 [SciTechDaily](https://scitechdaily.com/mlbs-magic-mud-exposed-the-science-behind-baseballs-secret-weapon/){:target="_blank"}<br>
 [Royal Society of Chemistry (RSC) Chemistry World](https://www.chemistryworld.com/news/how-magic-mud-gives-baseball-pitchers-a-better-grip/4020462.article){:target="_blank"}<br>
 [Nature Physics](https://www.nature.com/articles/s41567-024-02778-5){:target="_blank"}<br>
+[Telmundo Chicago](https://www.youtube.com/watch?v=xKN3hF89wlA){:target="_blank"}<br>
 and others.
