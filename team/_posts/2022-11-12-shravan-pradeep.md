@@ -13,15 +13,11 @@ image: /assets/images/team/shravan.jpg
 # cv: /assets/pdfs/Shravan Pradeep - Curriculum Vitae.pdf
 alum: false
 ---
-### Selected Honors & Awards
-2025 &nbsp; &nbsp; Trailblazers in Engineering Fellow, College of Engineering, Purdue University<br>
-2024 &nbsp; &nbsp; Inaugural Postdoc Fellow, Center for Soft & Living Matter, University of Pennsylvania<br>
-2024 &nbsp; &nbsp; APS FECS Mini Grant, APS Forum for Early Career Scientists<br>
-2023 &nbsp; &nbsp; Future Investigator Travel (FIT) Award, APS Division of Soft Matter<br> 
-2023 &nbsp; &nbsp; Victor K. LaMer Award Finalist, ACS Colloids & Surface Science Division<br>
-2022 &nbsp; &nbsp; Future Faculty Workshop Scholar, University of Delaware<br>
-2022 &nbsp; &nbsp; James K. Ferrell Outstanding Ph.D. Graduate Award, NC State University<br>
-2021 &nbsp; &nbsp; Langmuir Graduate Student Award Finalist, ACS Colloids & Surface Science Division<br>
-2016 &nbsp; &nbsp; Provost’s University Graduate Fellowship, College of Engineering, NC State University<br>
-2008 &nbsp; &nbsp; Prime Minister’s Merit Scholarship, Ministry of Defence, Government of India
+Shravan is an experimental soft matter researcher with interdisciplinary training in colloids and surface chemistry, transport phenomena, soil materials, and biofluid dynamics. His research seeks to understand surface soil as an adaptive material shaped by environmental training, and to apply these insights toward designing a new class of sustainable resilient (soft) mechanical materials.
+
+Shravan received his Ph.D. in Chemical Engineering from NC State University. During his doctoral training with Prof. Lilian Hsiao, he explored the effect of colloidal surface anisotropy on the flow and deformation of dense suspensions. His work revealed how macroscopic shock-absorbing and elastic properties of soft materials can be engineered by tuning surface chemistry at the colloidal scale. Currently at Penn, he works with Profs. Douglas Jerolmack and Paulo Arratia probing multiscale mechanics and dynamics of soft soil material mechanics and bacterial suspension dynamics. His works showed a unique balance of cohesive, frictional, and viscous elements governs macroscopic flow, failure, and frictional properties in natural complex soil systems. 
+
+Shravan has received numerous awards and honors, including the Trailblazers in Engineering Fellow (Purdue University), Center for Soft & Living Matter Inaugural Postdoc Fellow (University of Pennsylvania), the Future Investigator Travel Award (APS Division of Soft Matter), the James Ferrell Outstanding PhD Award (NC State University), and recognition as a Victor LaMer Award Finalist and Langmuir Graduate Student Award Finalist (ACS Colloids and Surface Science Division), among others. 
+
+Outside the lab, Shravan enjoys swimming, hiking, calligraphy, maps, and model trains.
 
