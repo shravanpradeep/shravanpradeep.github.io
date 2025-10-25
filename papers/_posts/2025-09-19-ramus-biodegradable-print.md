@@ -2,15 +2,15 @@
 layout: paper
 title: "RAMUS: Printable, mechanically-tunable, and biodegradable cellulose-mediated composites"
 year: "2025"
-shortref: "Chawla, Modanloo, Pradeep et al. <i>Adv Mater Inter</i> (Accepted)"
+shortref: "Chawla, Modanloo, Pradeep et al. <i>Adv Mater Inter</i>"
 nickname: ramus-biodegradable-3dprint
-journal: Advanced Materials Interfaces (Accepted)
-volume: 
+journal: Advanced Materials Interfaces 
+volume: e00513
 issue: 
 pages: 
 authors: "Shivani Chawla, Behzad Modanloo, Shravan Pradeep, Abigail Weinstein, Victor Li, Laia Mogas-Soldevila"
 image: /assets/images/papers/2025-ramus.png
-fulltext: 
+fulltext: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admi.202500513
 pdf: 
 pdflink: 
 github: 
