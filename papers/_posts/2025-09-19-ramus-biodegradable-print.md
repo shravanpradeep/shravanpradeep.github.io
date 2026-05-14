@@ -2,7 +2,7 @@
 layout: paper
 title: "RAMUS: Printable, mechanically-tunable, and biodegradable cellulose-mediated composites"
 year: "2025"
-shortref: "Chawla, Modanloo, Pradeep et al. <i>Adv Mater Inter</i>"
+shortref: "Chawla, Modanloo, Pradeep et al. <i>Adv Mater Inter</i>, 2025"
 nickname: ramus-biodegradable-3dprint
 journal: Advanced Materials Interfaces 
 volume: e00513

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Geomimicry: Emergent dynamics in Earth-mediated complex materials"
-year: "2025"
-shortref: "Pradeep, Del Gado et al. <i>arXiv</i> 2025"
+year: "2026"
+shortref: "Pradeep, Del Gado et al. <i>Phy Rev E</i> (Accepted)"
 nickname: geomimicry-perspective
-journal: arXiv 
+journal: Physical Review E (Accepted) 
 volume: 
 issue: 
 pages: 
@@ -19,11 +19,11 @@ pmcid:
 f1000: 
 figshare: 
 doi: 
-category: preprint
+category: paper
 published: true
-peerreview: false
-preprint: true
-review: false
+peerreview: true
+preprint: false
+review: true
 tags: []
 ---
 {% include JB/setup %}
